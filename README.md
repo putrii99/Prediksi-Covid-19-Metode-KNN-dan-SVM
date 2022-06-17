@@ -1,0 +1,1 @@
+# Prediksi-Covid-19-Metode-KNN-dan-SVM
